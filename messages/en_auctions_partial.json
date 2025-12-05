@@ -1,0 +1,20 @@
+{
+    "auctions": {
+        "live": "Live Auction",
+        "currentBid": "Current Bid",
+        "startingBid": "Starting Bid",
+        "placeBid": "Place Bid",
+        "yourBid": "Your Bid",
+        "winner": "Auction Winner",
+        "ended": "Auction Ended",
+        "running": "Auction Running",
+        "startingSoon": "Starting Soon",
+        "endingIn": "Ending in",
+        "viewDetails": "View Details",
+        "noAuctions": "No active auctions at the moment.",
+        "submitBid": "Submit Bid",
+        "bidHistory": "Bid History",
+        "loginToBid": "Login to Bid",
+        "vendorCannotBid": "Vendors cannot bid on items"
+    }
+}

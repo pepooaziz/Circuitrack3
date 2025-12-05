@@ -1,0 +1,196 @@
+{
+    "navbar": {
+        "brand": "CircuitRack",
+        "products": "产品",
+        "auctions": "拍卖",
+        "vendors": "供应商",
+        "signin": "登录",
+        "signup": "创建账户",
+        "getStarted": "立即开始",
+        "language": "语言",
+        "dashboard": "控制面板"
+    },
+    "home": {
+        "badge": "多供应商电子市场",
+        "title": "完整的电子产品交易平台",
+        "subtitle": "购买和销售新旧电子产品，参与实时拍卖，并获取批发和二级市场价格。",
+        "description": "CircuitRack 为专业供应商和合格买家提供可信赖的高价值电子交易平台。",
+        "ctaSell": "开始销售",
+        "ctaBrowse": "浏览产品",
+        "featureMultiVendorTitle": "多供应商产品",
+        "featureMultiVendorDesc": "探索来自全球认证供应商的数千种新旧电子组件。",
+        "featureAuctionsTitle": "实时拍卖",
+        "featureAuctionsDesc": "实时竞拍热门产品，获取最佳价格。",
+        "featureTradePricingTitle": "贸易定价",
+        "featureTradePricingDesc": "获取适用于批发和 B2B 采购的专业价格。"
+    },
+    "stats": {
+        "vendorsValue": "+500",
+        "vendorsLabel": "供应商",
+        "productsValue": "+10K",
+        "productsLabel": "在售产品",
+        "customersValue": "+50K",
+        "customersLabel": "客户",
+        "satisfactionValue": "99%",
+        "satisfactionLabel": "满意度"
+    },
+    "vendor": {
+        "sectionTitle": "成为供应商",
+        "sectionSubtitle": "加入数千名供应商，在 CircuitRack 销售电子产品。获取强大工具、分析功能和全球客户资源。",
+        "bulletDashboard": "完整供应商控制面板",
+        "bulletPayments": "安全支付处理",
+        "bulletMarketing": "营销与推广工具",
+        "bulletAnalytics": "实时销售分析",
+        "ctaApply": "申请成为供应商",
+        "ctaLearnMore": "了解更多",
+        "dashboard": "供应商控制台",
+        "welcome": "欢迎回到您的供应商管理中心！",
+        "products": "产品",
+        "orders": "订单",
+        "earnings": "收益",
+        "boost": "推广活动",
+        "manageAuctions": "管理拍卖",
+        "settings": "设置",
+        "logout": "退出登录",
+        "boostActive": "活动中",
+        "recentOrders": "最近订单",
+        "totalEarnings": "总收益",
+        "totalProducts": "产品数量",
+        "viewMore": "查看更多",
+        "noData": "暂无数据",
+        "loading": "加载中...",
+        "recentOrdersTablePlaceholder": "最近订单表（即将推出）",
+        "earningsChartPlaceholder": "收益图表（即将推出）"
+    },
+    "products": {
+        "pageTitle": "浏览产品",
+        "filtersTitle": "筛选条件",
+        "searchPlaceholder": "搜索产品、品牌或零件编号…",
+        "sortBy": "排序方式",
+        "sortLatest": "最新",
+        "sortPopular": "最受欢迎",
+        "sortPriceLow": "价格：从低到高",
+        "sortPriceHigh": "价格：从高到低",
+        "noResults": "没有找到匹配的产品。"
+    },
+    "auctions": {
+        "title": "实时拍卖",
+        "subtitle": "实时竞拍独家电子产品。",
+        "noLive": "目前没有正在进行的拍卖，请稍后再来！",
+        "currentBid": "当前出价",
+        "startingPrice": "起拍价",
+        "endsAt": "结束时间",
+        "placeBid": "出价",
+        "viewDetails": "查看详情"
+    },
+    "auth": {
+        "loginTitle": "登录",
+        "registerTitle": "创建账户",
+        "email": "邮箱地址",
+        "password": "密码",
+        "confirmPassword": "确认密码",
+        "forgotPassword": "忘记密码？",
+        "loginBtn": "登录",
+        "registerBtn": "注册",
+        "or": "或",
+        "googleBtn": "使用 Google 登录"
+    },
+    "cart": {
+        "title": "购物车",
+        "empty": "您的购物车是空的。",
+        "startShopping": "开始购物",
+        "total": "总计",
+        "checkout": "结账",
+        "price": "价格",
+        "qty": "数量",
+        "remove": "移除"
+    },
+    "wishlist": {
+        "title": "我的收藏",
+        "empty": "收藏夹中没有商品。",
+        "moveToCart": "移至购物车",
+        "remove": "移除"
+    },
+    "compare": {
+        "title": "产品对比",
+        "empty": "没有可对比的商品。",
+        "product": "产品",
+        "condition": "成色",
+        "price": "价格",
+        "vendor": "供应商",
+        "rating": "评分",
+        "remove": "移除"
+    },
+    "about": {
+        "title": "关于我们",
+        "subtitle": "电力、控制与自动化领域的领导者",
+        "intro": "在电力、控制与工业自动化的世界里，精准不是选择，而是必须。因此，Circuit Rack 致力于引领电力系统、控制部件及自动化设备的数字化交易革新。我们是一个多供应商平台（Multi-Vendor Marketplace），基于三个核心支柱。",
+        "pillars": {
+            "p1_title": "1. 严格的可信度",
+            "p1_desc": "平台拒绝任何来源不明的零件。采用智能信誉评分体系（Trust Score System），确保只有电力、控制和自动化领域的优质供应商才能入驻。",
+            "p2_title": "2. 语义智能搜索",
+            "p2_desc": "通过先进的语义搜索技术（Semantic Search），我们理解电力与控制工程师的专业语言。您可以通过描述问题或技术参数进行搜索，系统将为您匹配最佳组件。",
+            "p3_title": "3. 资金安全",
+            "p3_desc": "我们提供完整的买家保护机制：您的付款将托管在安全账户中，只有在您确认产品完好无误后才会释放给卖家。"
+        },
+        "closing": "我们的使命是让工业采购更快捷、更安全、更智能。",
+        "stats": {
+            "vendors": "值得信赖的供应商",
+            "products": "工业零件",
+            "customers": "满意的客户",
+            "satisfaction": "满意率"
+        }
+    },
+    "products": {
+        "title": "产品",
+        "subtitle": "浏览经过验证的供应商提供的电力、控制和自动化产品",
+        "noProducts": "目前没有可用产品。",
+        "search": "搜索产品...",
+        "new": "新的",
+        "used": "二手",
+        "refurbished": "翻新",
+        "addToCart": "加入购物车",
+        "addToWishlist": "加入收藏",
+        "compare": "对比",
+        "viewDetails": "查看详情"
+    },
+    "productDetails": {
+        "addToCart": "加入购物车",
+        "addToWishlist": "加入收藏",
+        "addToCompare": "对比",
+        "description": "产品描述",
+        "specifications": "技术规格",
+        "relatedProducts": "相关产品",
+        "inStock": "有货",
+        "outOfStock": "缺货",
+        "vendor": "供应商",
+        "category": "类别",
+        "specs": {
+            "current_rating": "额定电流",
+            "rated_voltage": "额定电压",
+            "breaking_capacity": "分断能力",
+            "poles": "极数",
+            "frequency": "频率",
+            "mounting": "安装方式",
+            "protection_class": "防护等级",
+            "certification": "认证",
+            "operating_temp": "工作温度",
+            "dimensions": "尺寸",
+            "weight": "重量"
+        }
+    },
+    "suggestions": {
+        "title": "为您推荐",
+        "subtitle": "基于当前市场趋势为您推荐的产品。",
+        "addToWishlist": "加入收藏",
+        "addToCompare": "加入对比",
+        "empty": "暂无推荐。"
+    },
+    "footer": {
+        "rights": "© 2025 CircuitRack 版权所有。",
+        "about": "关于我们",
+        "contact": "联系我们",
+        "privacy": "隐私政策",
+        "terms": "服务条款"
+    }
+}

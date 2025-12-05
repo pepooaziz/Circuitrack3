@@ -1,0 +1,30 @@
+{
+    "vendor": {
+        "dashboard": "لوحة تحكم البائع",
+        "products": "منتجاتي",
+        "addProduct": "إضافة منتج",
+        "orders": "الطلبات",
+        "earnings": "الأرباح",
+        "payouts": "طلبات السحب",
+        "boost": "حملات الترويج",
+        "tradePrice": "أسعار التجار",
+        "settings": "الإعدادات",
+        "register": "سجل كبائع",
+        "companyName": "اسم الشركة",
+        "bio": "نبذة عن الشركة",
+        "submitApplication": "تقديم الطلب",
+        "status": "الحالة",
+        "active": "نشط",
+        "pending": "قيد المراجعة",
+        "totalProducts": "إجمالي المنتجات",
+        "totalEarnings": "إجمالي الأرباح",
+        "recentOrders": "أحدث الطلبات",
+        "noProducts": "لا توجد منتجات. أضف أول منتج لك!",
+        "createProduct": "إضافة منتج جديد",
+        "editProduct": "تعديل المنتج",
+        "manageAuctions": "إدارة المزادات",
+        "campaigns": "الحملات التسويقية",
+        "requestPayout": "طلب سحب أرباح",
+        "logout": "تسجيل خروج"
+    }
+}

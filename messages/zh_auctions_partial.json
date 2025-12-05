@@ -1,0 +1,20 @@
+{
+    "auctions": {
+        "live": "现场拍卖",
+        "currentBid": "当前出价",
+        "startingBid": "起拍价",
+        "placeBid": "出价",
+        "yourBid": "您的出价",
+        "winner": "拍卖获胜者",
+        "ended": "拍卖已结束",
+        "running": "拍卖进行中",
+        "startingSoon": "即将开始",
+        "endingIn": "距结束",
+        "viewDetails": "查看详情",
+        "noAuctions": "暂时没有进行的拍卖。",
+        "submitBid": "提交出价",
+        "bidHistory": "出价记录",
+        "loginToBid": "登录竞标",
+        "vendorCannotBid": "供应商无法竞标"
+    }
+}

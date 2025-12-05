@@ -1,0 +1,30 @@
+{
+    "vendor": {
+        "dashboard": "Vendor Dashboard",
+        "products": "My Products",
+        "addProduct": "Add Product",
+        "orders": "Orders",
+        "earnings": "Earnings",
+        "payouts": "Payout Requests",
+        "boost": "Boost Campaigns",
+        "tradePrice": "Trade Pricing",
+        "settings": "Settings",
+        "register": "Register as Vendor",
+        "companyName": "Company Name",
+        "bio": "Company Bio",
+        "submitApplication": "Submit Application",
+        "status": "Status",
+        "active": "Active",
+        "pending": "Pending",
+        "totalProducts": "Total Products",
+        "totalEarnings": "Total Earnings",
+        "recentOrders": "Recent Orders",
+        "noProducts": "No products found. Add your first one!",
+        "createProduct": "Create Product",
+        "editProduct": "Edit Product",
+        "manageAuctions": "Manage Auctions",
+        "campaigns": "Marketing Campaigns",
+        "requestPayout": "Request Payout",
+        "logout": "Log Out"
+    }
+}

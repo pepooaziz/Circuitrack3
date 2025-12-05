@@ -1,0 +1,266 @@
+{
+    "navbar": {
+        "brand": "CircuitRack",
+        "products": "المنتجات",
+        "auctions": "المزادات",
+        "vendors": "البائعون",
+        "signin": "تسجيل الدخول",
+        "signup": "إنشاء حساب",
+        "getStarted": "ابدأ الآن",
+        "language": "اللغة",
+        "dashboard": "لوحة التحكم"
+    },
+    "home": {
+        "badge": "منصّة متعددة البائعين",
+        "title": "منصّتك المتكاملة لتجارة الإلكترونيات",
+        "subtitle": "قم ببيع وشراء الإلكترونيات الجديدة والمستعملة، والمشاركة في المزادات، والوصول إلى أسعار البيع بالجملة وأسعار السوق الثانوية.",
+        "description": "تربط CircuitRack بين البائعين المحترفين والمشترين المؤهلين عبر سوق موثوق مصمّم لتجارة الإلكترونيات عالية القيمة.",
+        "ctaSell": "ابدأ البيع",
+        "ctaBrowse": "تصفّح المنتجات",
+        "featureMultiVendorTitle": "منتجات متعددة البائعين",
+        "featureMultiVendorDesc": "استكشف آلاف المكوّنات الإلكترونية الجديدة والمستعملة من بائعين موثوقين حول العالم.",
+        "featureAuctionsTitle": "مزادات مباشرة",
+        "featureAuctionsDesc": "شارك في المزادات المباشرة واحصل على أفضل الأسعار.",
+        "featureTradePricingTitle": "التسعير التجاري",
+        "featureTradePricingDesc": "الوصول إلى أسعار الجملة وأسعار السوق الثانوية المخصّصة للمشترين بالجملة."
+    },
+    "stats": {
+        "vendorsValue": "+500",
+        "vendorsLabel": "بائعون",
+        "productsValue": "+10K",
+        "productsLabel": "منتجات نشطة",
+        "customersValue": "+50K",
+        "customersLabel": "عملاء",
+        "satisfactionValue": "99%",
+        "satisfactionLabel": "رضا العملاء"
+    },
+    "vendor": {
+        "sectionTitle": "انضم كبائع",
+        "sectionSubtitle": "انضم إلى آلاف البائعين الذين يبيعون الإلكترونيات عبر CircuitRack. احصل على أدوات احترافية، وتحليلات دقيقة، ووصول إلى قاعدة عملاء عالمية.",
+        "bulletDashboard": "لوحة تحكم متكاملة للبائع",
+        "bulletPayments": "معالجة مدفوعات آمنة",
+        "bulletMarketing": "أدوات التسويق والترويج",
+        "bulletAnalytics": "تحليلات مبيعات لحظية",
+        "ctaApply": "قدّم طلب الانضمام",
+        "ctaLearnMore": "تعرّف على المزيد",
+        "dashboard": {
+            "title": "لوحة التحكم",
+            "welcome": "مرحبًا بعودتك إلى مركز إدارة البائع!",
+            "totalEarnings": "إجمالي الأرباح",
+            "totalProducts": "عدد المنتجات",
+            "recentOrders": "الطلبات الأخيرة",
+            "activeBoosts": "الحملات النشطة",
+            "chartEarnings": "مخطط الأرباح",
+            "tableRecentOrders": "جدول الطلبات الأخيرة",
+            "noData": "لا توجد بيانات متاحة"
+        },
+        "products": {
+            "title": "منتجات البائع",
+            "addNew": "إضافة منتج جديد",
+            "editProduct": "تعديل المنتج",
+            "status": "الحالة",
+            "conditionNew": "جديد",
+            "conditionUsed": "مستعمل",
+            "stock": "المخزون",
+            "price": "السعر",
+            "tradePrice": "سعر الجملة",
+            "categories": "التصنيفات",
+            "noProducts": "لا توجد منتجات حاليًا",
+            "uploadImages": "رفع صور المنتج"
+        },
+        "orders": {
+            "title": "طلبات العملاء",
+            "orderId": "رقم الطلب",
+            "customer": "العميل",
+            "status": "الحالة",
+            "total": "الإجمالي",
+            "date": "تاريخ الطلب",
+            "noOrders": "لا توجد طلبات حتى الآن",
+            "statusPending": "قيد الانتظار",
+            "statusProcessing": "جاري التجهيز",
+            "statusCompleted": "مكتمل",
+            "statusCancelled": "ملغي"
+        },
+        "earnings": {
+            "title": "أرباح البائع",
+            "totalBalance": "إجمالي الرصيد",
+            "availableBalance": "الرصيد المتاح",
+            "withdraw": "سحب الرصيد",
+            "history": "سجل الأرباح",
+            "tableAmount": "المبلغ",
+            "tableDate": "التاريخ",
+            "tableStatus": "الحالة",
+            "noData": "لا توجد عمليات أرباح حتى الآن"
+        },
+        "boosts": {
+            "title": "الحملات الإعلانية",
+            "createNew": "إنشاء حملة جديدة",
+            "activeCampaigns": "الحملات النشطة",
+            "completedCampaigns": "الحملات المنتهية",
+            "budget": "الميزانية",
+            "duration": "المدة",
+            "status": "الحالة",
+            "statusActive": "نشط",
+            "statusPaused": "متوقف مؤقتًا",
+            "statusCompleted": "مكتمل",
+            "noBoosts": "لا توجد حملات حالياً"
+        },
+        "auctions": {
+            "title": "إدارة المزادات",
+            "createAuction": "إنشاء مزاد جديد",
+            "currentAuctions": "المزادات الحالية",
+            "closedAuctions": "المزادات المغلقة",
+            "product": "المنتج",
+            "startPrice": "السعر الابتدائي",
+            "currentBid": "أعلى مزايدة",
+            "endsAt": "ينتهي في",
+            "status": "الحالة",
+            "statusActive": "نشط",
+            "statusEnded": "منتهي",
+            "noAuctions": "لا توجد مزادات حتى اللحظة"
+        },
+        "settings": {
+            "title": "إعدادات البائع",
+            "profile": "الملف الشخصي",
+            "storeName": "اسم المتجر",
+            "email": "البريد الإلكتروني",
+            "phone": "رقم الهاتف",
+            "address": "العنوان",
+            "saveChanges": "حفظ التعديلات",
+            "password": "كلمة المرور",
+            "changePassword": "تغيير كلمة المرور"
+        },
+        "logout": "تسجيل الخروج"
+    },
+    "products": {
+        "pageTitle": "تصفّح المنتجات",
+        "filtersTitle": "عوامل التصفية",
+        "searchPlaceholder": "ابحث عن المنتجات أو العلامات التجارية أو أرقام القطع…",
+        "sortBy": "ترتيب حسب",
+        "sortLatest": "الأحدث",
+        "sortPopular": "الأكثر شهرة",
+        "sortPriceLow": "السعر: من الأقل إلى الأعلى",
+        "sortPriceHigh": "السعر: من الأعلى إلى الأقل",
+        "noResults": "لا توجد منتجات مطابقة لبحثك."
+    },
+    "auctions": {
+        "title": "المزادات المباشرة",
+        "subtitle": "قم بالمزايدة على الإلكترونيات الحصرية في الوقت الحقيقي.",
+        "noLive": "لا توجد مزادات مباشرة في الوقت الحالي. تحقق لاحقاً!",
+        "currentBid": "أعلى مزايدة",
+        "startingPrice": "السعر الابتدائي",
+        "endsAt": "ينتهي في",
+        "placeBid": "تقديم مزايدة",
+        "viewDetails": "عرض التفاصيل"
+    },
+    "auth": {
+        "loginTitle": "تسجيل الدخول",
+        "registerTitle": "إنشاء حساب",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "confirmPassword": "تأكيد كلمة المرور",
+        "forgotPassword": "هل نسيت كلمة المرور؟",
+        "loginBtn": "دخول",
+        "registerBtn": "إنشاء حساب",
+        "or": "أو",
+        "googleBtn": "المتابعة عبر Google"
+    },
+    "cart": {
+        "title": "سلة التسوق",
+        "empty": "سلتك فارغة حالياً.",
+        "startShopping": "ابدأ التسوق",
+        "total": "الإجمالي",
+        "checkout": "إتمام الشراء",
+        "price": "السعر",
+        "qty": "الكمية",
+        "remove": "حذف"
+    },
+    "wishlist": {
+        "title": "قائمة المفضلة",
+        "empty": "لا توجد منتجات في المفضلة.",
+        "moveToCart": "نقل إلى السلة",
+        "remove": "إزالة"
+    },
+    "compare": {
+        "title": "مقارنة المنتجات",
+        "empty": "لا توجد منتجات للمقارنة.",
+        "product": "المنتج",
+        "condition": "الحالة",
+        "price": "السعر",
+        "vendor": "البائع",
+        "rating": "التقييم",
+        "remove": "إزالة"
+    },
+    "about": {
+        "title": "من نحن",
+        "subtitle": "الريادة في الباور والكنترول والأوتوميشن",
+        "intro": "في عالم الباور والكنترول والأوتوميشن، الدقة ليست خياراً، بل ضرورة. ومن هنا انطلقت Circuit Rack لتقود التحول الرقمي في تجارة قطع أنظمة التحكم والطاقة والأتمتة الصناعية. نحن سوق متعدد البائعين (Multi-Vendor Marketplace) يرتكز على ثلاثة أعمدة رئيسية.",
+        "pillars": {
+            "p1_title": "1. الموثوقية الصارمة",
+            "p1_desc": "لا مكان للمنتجات المجهولة لدينا. نطبق نظاماً ذكياً لمراقبة جودة البائعين (Trust Score System) يضمن التعامل مع النخبة فقط في مجالات الطاقة والتحكم والأوتوميشن.",
+            "p2_title": "2. الذكاء البحثي",
+            "p2_desc": "بفضل تقنيات البحث الدلالي (Semantic Search)، نفهم لغة مهندسي الباور والكنترول والأوتوميشن. يمكنك البحث بوصف المشكلة أو المواصفات الفنية، وسيقودك نظامنا للمنتج الأنسب.",
+            "p3_title": "3. الأمان المالي",
+            "p3_desc": "نتبنى نظام حماية المشتري الكامل، حيث تظل أموالك آمنة في حساب وسيط ولا يتم الإفراج عنها للبائع إلا بعد تأكيدك لسلامة المنتج ومطابقته."
+        },
+        "closing": "نحن هنا لنجعل عملية الشراء الصناعية أسرع، وأكثر أماناً، وأشد ذكاءً.",
+        "stats": {
+            "vendors": "بائع موثوق",
+            "products": "منتج صناعي",
+            "customers": "عميل راضٍ",
+            "satisfaction": "نسبة رضا"
+        }
+    },
+    "products": {
+        "title": "المنتجات",
+        "subtitle": "تصفح منتجات الطاقة والتحكم والأتمتة من بائعين موثوقين",
+        "noProducts": "لا توجد منتجات متاحة حالياً.",
+        "search": "ابحث عن منتج...",
+        "new": "جديد",
+        "used": "مستعمل",
+        "refurbished": "مُجدد",
+        "addToCart": "أضف للسلة",
+        "addToWishlist": "أضف للمفضلة",
+        "compare": "قارن",
+        "viewDetails": "عرض التفاصيل"
+    },
+    "productDetails": {
+        "addToCart": "أضف للسلة",
+        "addToWishlist": "أضف للمفضلة",
+        "addToCompare": "قارن",
+        "description": "وصف المنتج",
+        "specifications": "المواصفات الفنية",
+        "relatedProducts": "منتجات مشابهة",
+        "inStock": "متوفر",
+        "outOfStock": "غير متوفر",
+        "vendor": "البائع",
+        "category": "الفئة",
+        "specs": {
+            "current_rating": "التيار المقنن",
+            "rated_voltage": "الجهد المقنن",
+            "breaking_capacity": "قدرة القطع",
+            "poles": "عدد الأقطاب",
+            "frequency": "التردد",
+            "mounting": "نوع التركيب",
+            "protection_class": "فئة الحماية",
+            "certification": "الشهادات",
+            "operating_temp": "درجة حرارة التشغيل",
+            "dimensions": "الأبعاد",
+            "weight": "الوزن"
+        }
+    },
+    "suggestions": {
+        "title": "مقترحات لك",
+        "subtitle": "منتجات قد تهمك بناءً على اهتمامات السوق الحالية.",
+        "addToWishlist": "إضافة للمفضلة",
+        "addToCompare": "مقارنة",
+        "empty": "لا توجد مقترحات حالياً."
+    },
+    "footer": {
+        "rights": "© 2025 CircuitRack. جميع الحقوق محفوظة.",
+        "about": "من نحن",
+        "contact": "تواصل معنا",
+        "privacy": "سياسة الخصوصية",
+        "terms": "شروط الاستخدام"
+    }
+}

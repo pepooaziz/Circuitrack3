@@ -1,0 +1,196 @@
+{
+    "navbar": {
+        "brand": "CircuitRack",
+        "products": "Products",
+        "auctions": "Auctions",
+        "vendors": "Vendors",
+        "signin": "Sign In",
+        "signup": "Create Account",
+        "getStarted": "Get Started",
+        "language": "Language",
+        "dashboard": "Dashboard"
+    },
+    "home": {
+        "badge": "Multi-Vendor Marketplace",
+        "title": "Your Complete Electronics Trading Platform",
+        "subtitle": "Buy and sell new and used electronics, participate in auctions, and access wholesale and secondary-market pricing.",
+        "description": "CircuitRack connects professional vendors with qualified buyers in one trusted marketplace built for high-value electronics trading.",
+        "ctaSell": "Start Selling",
+        "ctaBrowse": "Browse Products",
+        "featureMultiVendorTitle": "Multi-Vendor Products",
+        "featureMultiVendorDesc": "Explore thousands of new and used electronic components from verified vendors around the world.",
+        "featureAuctionsTitle": "Live Auctions",
+        "featureAuctionsDesc": "Bid in real-time auctions on high-demand items and secure the best prices.",
+        "featureTradePricingTitle": "Trade Pricing",
+        "featureTradePricingDesc": "Access wholesale and secondary-market pricing designed for bulk B2B purchases."
+    },
+    "stats": {
+        "vendorsValue": "+500",
+        "vendorsLabel": "Vendors",
+        "productsValue": "+10K",
+        "productsLabel": "Active Products",
+        "customersValue": "+50K",
+        "customersLabel": "Customers",
+        "satisfactionValue": "99%",
+        "satisfactionLabel": "Satisfaction"
+    },
+    "vendor": {
+        "sectionTitle": "Become a Vendor",
+        "sectionSubtitle": "Join thousands of vendors selling electronics on CircuitRack. Access powerful tools, analytics, and a global customer base.",
+        "bulletDashboard": "Full vendor dashboard",
+        "bulletPayments": "Secure payment processing",
+        "bulletMarketing": "Marketing & promotional tools",
+        "bulletAnalytics": "Real-time sales analytics",
+        "ctaApply": "Apply as Vendor",
+        "ctaLearnMore": "Learn More",
+        "dashboard": "Vendor Dashboard",
+        "welcome": "Welcome back to your vendor control center!",
+        "products": "Products",
+        "orders": "Orders",
+        "earnings": "Earnings",
+        "boost": "Boost Campaigns",
+        "manageAuctions": "Manage Auctions",
+        "settings": "Settings",
+        "logout": "Logout",
+        "boostActive": "Active",
+        "recentOrders": "Recent Orders",
+        "totalEarnings": "Total Earnings",
+        "totalProducts": "Total Products",
+        "viewMore": "View More",
+        "noData": "No data available",
+        "loading": "Loading...",
+        "recentOrdersTablePlaceholder": "Recent Orders Table Placeholder",
+        "earningsChartPlaceholder": "Earnings Chart Placeholder"
+    },
+    "products": {
+        "pageTitle": "Browse Products",
+        "filtersTitle": "Filters",
+        "searchPlaceholder": "Search for products, brands, or part numbers...",
+        "sortBy": "Sort by",
+        "sortLatest": "Newest",
+        "sortPopular": "Most Popular",
+        "sortPriceLow": "Price: Low to High",
+        "sortPriceHigh": "Price: High to Low",
+        "noResults": "No products match your search."
+    },
+    "auctions": {
+        "title": "Live Auctions",
+        "subtitle": "Bid on exclusive electronics in real-time.",
+        "noLive": "No live auctions at the moment. Check back later!",
+        "currentBid": "Current Bid",
+        "startingPrice": "Starting Price",
+        "endsAt": "Ends At",
+        "placeBid": "Place Bid",
+        "viewDetails": "View Details"
+    },
+    "auth": {
+        "loginTitle": "Sign In",
+        "registerTitle": "Create Account",
+        "email": "Email address",
+        "password": "Password",
+        "confirmPassword": "Confirm password",
+        "forgotPassword": "Forgot password?",
+        "loginBtn": "Sign In",
+        "registerBtn": "Register",
+        "or": "or",
+        "googleBtn": "Continue with Google"
+    },
+    "cart": {
+        "title": "Shopping Cart",
+        "empty": "Your cart is currently empty.",
+        "startShopping": "Start Shopping",
+        "total": "Total",
+        "checkout": "Checkout",
+        "price": "Price",
+        "qty": "Qty",
+        "remove": "Remove"
+    },
+    "wishlist": {
+        "title": "My Wishlist",
+        "empty": "No items in wishlist.",
+        "moveToCart": "Move to Cart",
+        "remove": "Remove"
+    },
+    "compare": {
+        "title": "Compare Products",
+        "empty": "No items to compare.",
+        "product": "Product",
+        "condition": "Condition",
+        "price": "Price",
+        "vendor": "Vendor",
+        "rating": "Rating",
+        "remove": "Remove"
+    },
+    "about": {
+        "title": "About Us",
+        "subtitle": "Leadership in Power, Control & Automation",
+        "intro": "In the world of Power, Control, and Industrial Automation, precision is not optional — it is essential. This is why Circuit Rack was founded: to lead the digital transformation of trading technical components in energy systems, control panels, and industrial automation. We are a Multi-Vendor Marketplace built on three core pillars.",
+        "pillars": {
+            "p1_title": "1. Strict Reliability",
+            "p1_desc": "There is no room for unverified components. We enforce an intelligent Trust Score System that ensures only elite vendors in power, control, and automation can operate on our platform.",
+            "p2_title": "2. Semantic Intelligence",
+            "p2_desc": "With advanced Semantic Search technology, we understand the language of power, control, and automation engineers. Search by describing the issue or technical specifications, and our system will guide you to the best-matched component.",
+            "p3_title": "3. Financial Security",
+            "p3_desc": "We implement a full buyer-protection mechanism: your payment stays in a secure escrow account until you confirm the product’s condition and compliance."
+        },
+        "closing": "Our mission is to make industrial procurement faster, safer, and smarter.",
+        "stats": {
+            "vendors": "Trusted Vendors",
+            "products": "Industrial Parts",
+            "customers": "Happy Clients",
+            "satisfaction": "Satisfaction Rate"
+        }
+    },
+    "products": {
+        "title": "Products",
+        "subtitle": "Browse power, control and automation products from verified vendors",
+        "noProducts": "No products available at the moment.",
+        "search": "Search products...",
+        "new": "NEW",
+        "used": "USED",
+        "refurbished": "REFURBISHED",
+        "addToCart": "Add to Cart",
+        "addToWishlist": "Add to Wishlist",
+        "compare": "Compare",
+        "viewDetails": "View Details"
+    },
+    "productDetails": {
+        "addToCart": "Add to Cart",
+        "addToWishlist": "Add to Wishlist",
+        "addToCompare": "Compare",
+        "description": "Product Description",
+        "specifications": "Technical Specifications",
+        "relatedProducts": "Related Products",
+        "inStock": "In Stock",
+        "outOfStock": "Out of Stock",
+        "vendor": "Vendor",
+        "category": "Category",
+        "specs": {
+            "current_rating": "Current Rating",
+            "rated_voltage": "Rated Voltage",
+            "breaking_capacity": "Breaking Capacity",
+            "poles": "Poles",
+            "frequency": "Frequency",
+            "mounting": "Mounting Type",
+            "protection_class": "Protection Class",
+            "certification": "Certification",
+            "operating_temp": "Operating Temperature",
+            "dimensions": "Dimensions",
+            "weight": "Weight"
+        }
+    },
+    "suggestions": {
+        "title": "Suggestions for You",
+        "subtitle": "Products you might like based on current market trends.",
+        "addToWishlist": "Add to Wishlist",
+        "addToCompare": "Compare",
+        "empty": "No suggestions available."
+    },
+    "footer": {
+        "rights": "© 2025 CircuitRack. All rights reserved.",
+        "about": "About Us",
+        "contact": "Contact",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "auctions": {
+        "live": "مزاد حي",
+        "currentBid": "أعلى مزايدة",
+        "startingBid": "سعر الفتح",
+        "placeBid": "شارك في المزاد",
+        "yourBid": "مزايدتك",
+        "winner": "الفائز بالمزاد",
+        "ended": "انتهى المزاد",
+        "running": "المزاد جاري",
+        "startingSoon": "يبدأ قريباً",
+        "endingIn": "ينتهي خلال",
+        "viewDetails": "التفاصيل",
+        "noAuctions": "لا توجد مزادات نشطة حالياً.",
+        "submitBid": "تأكيد المزايدة",
+        "bidHistory": "سجل المزايدات",
+        "loginToBid": "سجل دخول للمزايدة",
+        "vendorCannotBid": "لا يمكن للبائعين المشاركة"
+    }
+}
