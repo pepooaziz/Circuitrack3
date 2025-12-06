@@ -3,9 +3,6 @@ import { notFound } from "next/navigation";
 import { NextIntlClientProvider, useMessages } from "next-intl";
 
 export const dynamic = "force-dynamic";
-
-export function generateStaticParams() {
-  return [{ lang: "en" }, { lang: "ar" }, { lang: "zh" }];
 }
 
 export default async function LocaleLayout({ children, params }) {
