@@ -1,17 +1,15 @@
-import "../globals.css";
-import { notFound } from "next/navigation";
-import { NextIntlClientProvider } from "next-intl";
-
 export const dynamic = "force-dynamic";
+
+import { NextIntlClientProvider } from "next-intl";
+import { notFound } from "next/navigation";
 
 export default async function LocaleLayout({ children, params }) {
   const { lang } = params;
 
-  // Ensure locale is supported
   const locales = ["en", "ar", "zh"];
+
   if (!locales.includes(lang)) notFound();
 
-  // Load translation messages
   const messages = (await import(`../../messages/${lang}.json`)).default;
 
   return (
