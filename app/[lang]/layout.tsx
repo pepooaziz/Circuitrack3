@@ -1,12 +1,11 @@
 import "../globals.css";
 import { notFound } from "next/navigation";
-import { NextIntlClientProvider, useMessages } from "next-intl";
+import { NextIntlClientProvider } from "next-intl";
 
 export const dynamic = "force-dynamic";
-}
 
 export default async function LocaleLayout({ children, params }) {
-  let { lang } = params;
+  const { lang } = params;
 
   // Ensure locale is supported
   const locales = ["en", "ar", "zh"];
