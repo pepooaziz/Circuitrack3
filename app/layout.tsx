@@ -1,25 +1,24 @@
-"use client";
+export const dynamic = "force-dynamic";
 
-import "./globals.css";
-import { dir } from "i18next";
-import { languages } from "../i18n/settings";
+import { NextIntlClientProvider } from "next-intl";
+import { notFound } from "next/navigation";
 
-export const metadata = {
-  title: "CircuitRack",
-  description: "Multi-vendor marketplace for power, control, and automation components",
-};
+export default async function LocaleLayout({ children, params }) {
+  const { lang } = params;
 
-export async function generateStaticParams() {
-  return languages.map((lng) => ({ lang: lng }));
-}
+  const locales = ["en", "ar", "zh"];
 
-export default function RootLayout({ children, params }) {
-  const lang = params?.lang ?? "en";
+  if (!locales.includes(lang)) notFound();
+
+  const messages = (await import(`../../messages/${lang}.json`)).default;
 
   return (
-    <html lang={lang} dir={dir(lang)}>
-      <body>{children}</body>
+    <html lang={lang} dir={lang === "ar" ? "rtl" : "ltr"}>
+      <body>
+        <NextIntlClientProvider locale={lang} messages={messages}>
+          {children}
+        </NextIntlClientProvider>
+      </body>
     </html>
   );
 }
-
