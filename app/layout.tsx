@@ -14,7 +14,7 @@ export async function generateStaticParams() {
 }
 
 export default function RootLayout({ children, params }) {
-  const lang = params?.lang || "en";
+  const lang = params?.lang ?? "en";
 
   return (
     <html lang={lang} dir={dir(lang)}>
