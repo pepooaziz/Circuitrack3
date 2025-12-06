@@ -115,3 +115,13 @@ html[dir="ltr"] *:not([dir="rtl"]) {
   direction: ltr;
   display: inline-block;
 }
+/* Explicit Direction Support */
+html[dir="rtl"] * {
+  direction: rtl;
+  text-align: right;
+}
+
+html[dir="ltr"] * {
+  direction: ltr;
+  text-align: left;
+}
