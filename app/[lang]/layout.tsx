@@ -2,6 +2,7 @@ export const dynamic = "force-dynamic";
 
 import { NextIntlClientProvider } from "next-intl";
 import { notFound } from "next/navigation";
+import Header from "@/components/Header";
 
 export default async function LocaleLayout({ children, params }) {
   const { lang } = params;
@@ -15,6 +16,9 @@ export default async function LocaleLayout({ children, params }) {
   return (
     <html lang={lang} dir={lang === "ar" ? "rtl" : "ltr"}>
       <body>
+        {/* ← الهيدر هنا */}
+        <Header lang={lang} />
+
         <NextIntlClientProvider locale={lang} messages={messages}>
           {children}
         </NextIntlClientProvider>
